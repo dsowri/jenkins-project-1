@@ -1,2 +1,2 @@
 # jenkins-project-1
-testing purpose
+Welcome to the Jenkins project.
